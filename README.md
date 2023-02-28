@@ -46,9 +46,8 @@ Pier Worker/ Deck Hand / Caterer - Sandy Hook Pilots Association, Edgewater, NY 
 	Responsible for general ship maintenance and assisting Engineers and Welders on boat repairs
 	Trusted to train new employees and ensure all work was done well
 	Proud of ability to work productively with a small team to produce quality work 
-```dif
--text in red
-⠀-text in red⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣴⣶⣴⣶⣶⠶⠶⠶⠶⠶⠶⠶⢶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
+                ⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣴⣶⣴⣶⣶⠶⠶⠶⠶⠶⠶⠶⢶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠴⠞⠛⠋⠁⠀⠀⠀⠤⠴⠖⠒⠲⠦⠤⢄⣠⣤⣬⣛⣿⣿⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠞⢋⣡⠴⠚⠥⣤⣀⣀⠠⠶⠆⠀⠀⠀⠀⠀⠀⠀⠀⣿⡍⠉⠛⠻⢯⣽⣻⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⣋⡤⠖⠉⠀⠀⠀⣠⣼⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣷⣄⠀⠐⢮⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
