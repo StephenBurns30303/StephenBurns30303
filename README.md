@@ -47,8 +47,8 @@ Pier Worker/ Deck Hand / Caterer - Sandy Hook Pilots Association, Edgewater, NY 
 	Trusted to train new employees and ensure all work was done well
 	Proud of ability to work productively with a small team to produce quality work 
 ```dif
--text in yellow
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣴⣶⣴⣶⣶⠶⠶⠶⠶⠶⠶⠶⢶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+-text in red
+⠀-text in red⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣴⣶⣴⣶⣶⠶⠶⠶⠶⠶⠶⠶⢶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠴⠞⠛⠋⠁⠀⠀⠀⠤⠴⠖⠒⠲⠦⠤⢄⣠⣤⣬⣛⣿⣿⣷⣦⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠞⢋⣡⠴⠚⠥⣤⣀⣀⠠⠶⠆⠀⠀⠀⠀⠀⠀⠀⠀⣿⡍⠉⠛⠻⢯⣽⣻⢷⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⣋⡤⠖⠉⠀⠀⠀⣠⣼⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣷⣄⠀⠐⢮⣿⣿⣿⣿⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
